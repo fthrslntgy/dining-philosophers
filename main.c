@@ -1,6 +1,3 @@
-// Fatih Arslan Tugay
-// 181101008
-
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
